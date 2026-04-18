@@ -1,0 +1,13 @@
+# Data Manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning & Preprocessing
+scikit-learn>=1.2.0
+
+# Model Serialization
+joblib>=1.2.0
+
+# Optional: For Data Visualization (If you use plots)
+# matplotlib>=3.6.0
+# seaborn>=0.12.0
